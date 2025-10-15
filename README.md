@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PCR-EPR Member Management</title>
+<title>EPR Member Management</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
 body { font-family:"Times New Roman",sans-serif; background:#b0cdea; text-align:center; margin:20px;}
@@ -28,8 +28,11 @@ canvas {max-width:100%;}
 </head>
 <body>
 
-<h1>PCR-EPR Member Management</h1>
+<h1>EPR Member Management</h1>
 <p>Presbyterian Church of Rwanda-EPR has 7 presbyteries.</p>
+<p>256 Parishes</p>
+<p>726 Local Church</p>
+<p>1354 Grassroots</p>
 <button id="startBtn" aria-label="Tangiza gukurikirana abakristo">Kanda Hano!</button>
 <button id="viewDataBtn" aria-label="Reba Abakristo Data">Reba Abakristo Data</button>
 
